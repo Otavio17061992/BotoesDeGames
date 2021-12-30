@@ -1,0 +1,28 @@
+body {
+    margin:0;
+    padding:0;
+
+}
+
+
+.container { 
+    background-color: blue;
+   box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    border: 10px solid #ffff00;
+    padding: 10px;
+
+}
+
+.content {
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    border: solid 10px #ff05ff;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+
+
